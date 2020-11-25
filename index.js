@@ -1,5 +1,5 @@
-const inquirer = requiere("inquirer") // asking for user 
-const fs = require("fs")
+const inquirer = require("inquirer"); // asking for user 
+const fs = require("fs");
 
 inquirer.prompt([
 {
@@ -9,3 +9,8 @@ inquirer.prompt([
 }
 
 ])
+
+.then(function(answers) {
+    console.log(answers);
+
+})
