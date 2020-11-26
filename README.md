@@ -1,7 +1,7 @@
  # title
-    README Generator
+    README
 
-    ## Table of Contents
+## Table of Contents
     * [Installation Instructions](#Installation-Instructions)
     * [Usages](#Usages)
     * [Contribution Guideline](#Contribution-Guideline)
@@ -12,7 +12,7 @@
 ## Description 
     Create a README Generator that is proffecional
 ## Installation Instructions
-    Install node.js the run index.js in the console
+    node.js
 ## Usages 
     screenshot
 ## License
@@ -20,7 +20,7 @@
 ## Contribution Guideline
     Diego Hernandez
 ## Testing Instructions
-    NO
+    No
 ## Questions
     Any questions or suggestions reach:
     Diego Hernandez
