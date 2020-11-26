@@ -1,18 +1,19 @@
  # title
     README Generator
 ## Description 
-    Create a proffecional  README Generator that works
+    Creater a README Generator that is proffesional
 ## Installation
-    Intall using node.js then run the console
+    Install noje.js and run index.js at the console
 ## Usage 
-    Screenshot
+    screenshot
 ## License
     MIT
 ## Contributing
-    Diego Hernandez
+    Diego hernandez
 ## Tests
     N/A
 ## Questions
+    Any questions or suggestions reach:
     Diego Hernandez
     https://github.com/dhbhernandez
     d8328827238@me.com

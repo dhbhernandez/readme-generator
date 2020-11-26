@@ -81,6 +81,7 @@ inquirer.prompt([
 ## Tests
     ${answers.tests}
 ## Questions
+    Any questions or suggestions reach:
     ${answers.name}
     https://github.com/${answers.github}
     ${answers.email}
