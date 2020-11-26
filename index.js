@@ -92,7 +92,7 @@ ${answers.tests}
 ## Questions
 Any questions or suggestions reach:
 * ${answers.name}
-* Via [Github](https://github.com/${answers.github}
+* Via [Github] https://github.com/${answers.github}
 * Via Email: ${answers.email}
         
 
