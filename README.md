@@ -12,9 +12,9 @@
 ## Description 
 Create a proffecional README generator
 ## Installation Instructions
-Node.js
+Node.js  run index.js in the console
 ## Usage 
-https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kfA7QVN3jQI)
+[![Watch the video](https://i.imgur.com/BJ4I5HB.png)](https://youtu.be/kfA7QVN3jQI)
 ## License
 MIT
 ## Contribution Guideline
