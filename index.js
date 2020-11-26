@@ -91,7 +91,7 @@ ${answers.contributing}
 ${answers.tests}
 ## Questions
 Any questions or suggestions reach:
-${answers.name}
+* ${answers.name}
 * Via [Github](https://github.com/${answers.github}
 * Via Email: ${answers.email}
         
