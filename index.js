@@ -68,17 +68,26 @@ inquirer.prompt([
         var renderReadMe =
         ` # title
     ${answers.tittle}
+
+    ## Table of Contents
+    * [Installation Instructions](#Installation-Instructions)
+    * [Usages](#Usages)
+    * [Contribution Guideline](#Contribution-Guideline)
+    * [Testing Instructions](#Testing-Instructions)
+    * [Licenses](#Licenses)
+    * [Questions](#Questions)
+
 ## Description 
     ${answers.description}
-## Installation
+## Installation Instructions
     ${answers.installation}
-## Usage 
+## Usages 
     ${answers.usage}
 ## License
     ${answers.license}
-## Contributing
+## Contribution Guideline
     ${answers.contributing}
-## Tests
+## Testing Instructions
     ${answers.tests}
 ## Questions
     Any questions or suggestions reach:
