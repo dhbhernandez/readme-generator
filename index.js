@@ -70,30 +70,30 @@ inquirer.prompt([
     ${answers.tittle}
 
 ## Table of Contents
-    * [Installation Instructions](#Installation-Instructions)
-    * [Usages](#Usages)
-    * [Contribution Guideline](#Contribution-Guideline)
-    * [Testing Instructions](#Testing-Instructions)
-    * [Licenses](#Licenses)
-    * [Questions](#Questions)
+* [Installation Instructions](#Installation-Instructions)
+* [Usages](#Usages)
+* [Contribution Guideline](#Contribution-Guideline)
+* [Testing Instructions](#Testing-Instructions)
+* [Licenses](#Licenses)
+* [Questions](#Questions)
 
 ## Description 
-    ${answers.description}
+${answers.description}
 ## Installation Instructions
-    ${answers.installation}
+${answers.installation}
 ## Usages 
-    ${answers.usage}
+${answers.usage}
 ## License
-    ${answers.license}
+${answers.license}
 ## Contribution Guideline
-    ${answers.contributing}
+${answers.contributing}
 ## Testing Instructions
-    ${answers.tests}
+${answers.tests}
 ## Questions
-    Any questions or suggestions reach:
-    ${answers.name}
-    https://github.com/${answers.github}
-    ${answers.email}
+Any questions or suggestions reach:
+${answers.name}
+* Via [Github](https://github.com/${answers.github}
+* Via Email: ${answers.email}
         
 
 
