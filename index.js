@@ -69,7 +69,7 @@ inquirer.prompt([
         ` # title
     ${answers.tittle}
 
-    ## Table of Contents
+## Table of Contents
     * [Installation Instructions](#Installation-Instructions)
     * [Usages](#Usages)
     * [Contribution Guideline](#Contribution-Guideline)
