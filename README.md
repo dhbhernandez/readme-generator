@@ -10,11 +10,11 @@
 * [Questions](#Questions)
 
 ## Description 
-Create a README Generator that looks proffecional
+Create a proffecional README generator
 ## Installation Instructions
 Node.js
-## Usages 
-Screenshot
+## Usage 
+https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kfA7QVN3jQI)
 ## License
 MIT
 ## Contribution Guideline
@@ -24,7 +24,7 @@ No
 ## Questions
 Any questions or suggestions reach:
 * Diego Hernandez
-* Via [Github](https://github.com/dhbhernandez
+* Via [Github] https://github.com/dhbhernandez
 * Via Email: d8328827238@me.com
         
 

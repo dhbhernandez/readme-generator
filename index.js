@@ -19,6 +19,11 @@ inquirer.prompt([
         type: "input"
     },
     {
+        message: "what usage?",
+        name: "usage",
+        type: "input"
+    },
+    {
         message: "Provide instructions and examples for use. Include screenshots as needed",
         name: "usage",
         type: "input"
@@ -81,7 +86,7 @@ inquirer.prompt([
 ${answers.description}
 ## Installation Instructions
 ${answers.installation}
-## Usages 
+## Usage 
 ${answers.usage}
 ## License
 ${answers.license}
